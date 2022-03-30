@@ -1,4 +1,5 @@
-# Odds and ends to make working with Hercules mainframe emulation easier
+# Odds and ends 
+Little efficiencies to make working with Hercules mainframe emulation easier
 
 ## dspray
 Parse a dasd file (or folder of DASD files) and spray (ahem: extract) its 
